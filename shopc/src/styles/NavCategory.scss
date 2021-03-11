@@ -1,0 +1,33 @@
+.dropdown{
+    position: absolute;
+    display: none;
+    font-size: 14px;
+    background-color: white;
+    padding: 10px 15px;
+    text-align: left;
+    border-radius: 4px;
+    cursor: default;
+    line-height: 30px;
+    font-family: 'Rubik';
+
+    &__title{
+        font-weight: 600;
+        font-size: 14px;
+        color: var(--color-secondary)
+    }
+
+    &__list{
+        list-style: none;
+        color: rgb(65, 65, 65);
+        text-transform: none;
+        letter-spacing: 1px;
+        transition: 1s;
+        cursor: pointer;
+
+        :hover{
+            color: var(--color-secondary)
+        }
+    }
+}
+
+

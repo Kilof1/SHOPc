@@ -1,0 +1,58 @@
+.currency{
+    position: absolute;
+    right: 40px;
+    width: 100px;
+    height: 100%;
+    vertical-align: middle;
+    cursor: pointer;
+    
+
+    &__image{
+        margin-top: 3px;
+        height: 70%;
+    }
+
+    &__name{
+        position: absolute;
+        top: 0;
+        padding-left: 10px;
+    }
+}
+
+.menu{
+    position: absolute;
+    z-index: 100;
+    top: 30px;
+    right: 70px;
+    width: 140px;
+    border: 1px solid rgb(133, 133, 133);
+    border-radius: 10px;
+    background-color: #e0e0e0;
+
+    &__option{
+        position: relative;
+        height: 20px;
+        padding: 0px 10px;
+        margin: 10px 0;
+        cursor: pointer;
+
+        &:last-child{
+            border-bottom: none;
+        }
+
+
+        &__img{
+            position: absolute;
+            height: 100%;
+        }
+
+        &__name{
+            position: absolute;
+            top: 0;
+            left: 30px;
+            padding-left: 10px;
+            line-height: 20px;
+
+        }
+    }
+}
