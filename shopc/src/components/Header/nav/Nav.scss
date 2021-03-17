@@ -1,6 +1,7 @@
 .nav{
+position: absolute;
 width: 90%;
-box-shadow: 0 3px 2px 0px rgb(158, 158, 158);
+z-index: 1;
 
     &__list{
         display: grid;
@@ -38,7 +39,7 @@ box-shadow: 0 3px 2px 0px rgb(158, 158, 158);
 }
 
 .specialoffer{
-background-color: black;
+background-color: #212121;
 line-height: 60px;
 grid-area: 1 / 8 / 2 / 9;
 font-weight: bold;
@@ -70,6 +71,12 @@ font-weight: bold;
         }
     }
     .specialoffer{
+        display: none;
+    }
+}
+
+@media (max-width: 800px) {
+    .nav{
         display: none;
     }
 }

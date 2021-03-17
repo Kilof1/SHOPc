@@ -16,12 +16,12 @@ const useEventListener = <T extends HTMLElement = HTMLDivElement>(
     }
 
     if (savedHandlerRef.current !== handler) {
-        //@ts-ignore
+      //@ts-ignore
       savedHandlerRef.current = handler;
     }
 
     const eventListener = (event: Event): void => {
-        //@ts-ignore
+      //@ts-ignore
       savedHandlerRef.current(event);
     };
 
