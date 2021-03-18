@@ -1,6 +1,6 @@
 {
+  "homepage": "http://Kilof1.github.io/SHOPc",
   "name": "shopc",
-  "homepage": "http://kilof1.github.io/SHOPc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,14 +20,14 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint:fix": "eslint --fix ."
   },
   "eslintConfig": {
     "extends": [
