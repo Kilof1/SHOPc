@@ -3,6 +3,7 @@ import TopSlider from "./TopSlider/TopSlider";
 import ImageNav from "./ImageNav/ImageNav";
 import FirstAd from "./FirstAd/FirstAd";
 import Offer from "./Offer/Offer";
+import SecondAd from "./SecondAd/SecondAd";
 
 const Main: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const Main: React.FC = () => {
       <ImageNav />
       <FirstAd />
       <Offer />
+      <SecondAd />
     </div>
   );
 };

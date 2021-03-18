@@ -1,12 +1,16 @@
 import * as React from "react";
-import pc from "../../ImageNav/subcomponents/assets/pc.png";
-import proc from "../../ImageNav/subcomponents/assets/proc.jpg";
 import Product from "./Product/Product";
 
 import "./OfferProductsContainer.scss";
 
 export interface OfferProductsContainerProps {
-  active: [];
+  active: {
+    imgSrc: string;
+    title: string;
+    rating: number;
+    price: number;
+    currency: string;
+  }[];
 }
 
 const OfferProductsContainer: React.FC<OfferProductsContainerProps> = ({

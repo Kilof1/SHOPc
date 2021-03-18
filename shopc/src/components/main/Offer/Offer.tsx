@@ -30,21 +30,21 @@ const recomended = [
   {
     imgSrc: pc,
     title: "Pc Razor",
-    rating: 5,
+    rating: 4,
     price: 12000,
     currency: "pln",
   },
   {
     imgSrc: pc,
     title: "Pc Razor",
-    rating: 5,
+    rating: 2,
     price: 12000,
     currency: "pln",
   },
   {
     imgSrc: pc,
     title: "Pc Razor",
-    rating: 5,
+    rating: 3,
     price: 12000,
     currency: "pln",
   },
@@ -58,7 +58,7 @@ const recomended = [
   {
     imgSrc: proc,
     title: "Pc Razor",
-    rating: 5,
+    rating: 1,
     price: 12000,
     currency: "pln",
   },
@@ -132,7 +132,7 @@ const Offer: React.FC = () => {
       !currentElement.classList.contains("active") &&
       currentElement.tagName === "LI"
     ) {
-      const list = [...e.currentTarget?.children];
+      const list = [...e.currentTarget.children];
 
       list.forEach((li) => {
         li.classList.remove("active");
