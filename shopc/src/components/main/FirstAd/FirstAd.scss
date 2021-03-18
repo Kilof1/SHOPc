@@ -1,0 +1,32 @@
+.firstAd{
+  position: relative;
+  margin-top: 45px;
+  width: 100%;
+  height: 40vw;
+  max-height: 350px;
+  min-height: 200px;
+  background-color: #EAEAEA;
+  overflow: hidden;
+
+  &__grid{
+      position: absolute;
+      display: grid;
+      align-items: center;
+      // background-color: red;
+      grid-template: minmax(200px, 350px) / repeat(2, 1fr);
+      width: 80%;
+      height: 100%;
+      left: 50%;
+      transform: translate(-50%, 0);
+      bottom: 0;
+  }
+}
+
+@media(max-width: 1200px){
+  .firstAd{
+
+    &__grid{
+      width: 100%;
+    }
+  }
+}

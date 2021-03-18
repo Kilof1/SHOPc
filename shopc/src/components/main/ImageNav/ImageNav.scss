@@ -1,0 +1,26 @@
+.imageNav{
+  position: relative;
+  display: grid;
+  grid-template: minmax(25px, 200px) / repeat(6, minmax(75px, 1fr));
+  // background-color: red;
+  padding: 0 100px;
+  grid-auto-flow: column;
+  justify-items: center;
+  align-items: center;
+  column-gap: 20px;
+  width: 100%;
+  margin: auto;
+  transition: all 0.5s;
+}
+
+@media(max-width: 1200px){
+  .imageNav{
+    padding: 5px;
+  }
+}
+@media(max-width: 800px){
+  .imageNav{
+    grid-template: repeat(2, minmax(50px, 200px)) / repeat(3, minmax(0, 1fr));
+    row-gap: 20px;
+  }
+}

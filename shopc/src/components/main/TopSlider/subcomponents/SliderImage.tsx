@@ -9,11 +9,13 @@ interface SliderImageProps {
 
 const SliderImage: React.FC<SliderImageProps> = (props: SliderImageProps) => {
   return (
-    <img
-      className="slider-container__grid__image__img"
-      src={info[props.index].imageSrc}
-      alt="XDDDDD"
-    />
+    <div className="slider-container__grid__image">
+      <img
+        className="slider-container__grid__image__img"
+        src={info[props.index].imageSrc}
+        alt="XDDDDD"
+      />
+    </div>
   );
 };
 

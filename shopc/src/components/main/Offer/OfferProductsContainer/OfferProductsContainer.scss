@@ -1,0 +1,34 @@
+.offerProductsContainer{
+  padding: 10px;
+
+  &__grid{
+    width: 1200px;
+    margin: auto;
+
+    display: grid;
+    grid-template: 1fr 1fr / repeat(4, 220px);
+    justify-content: center;
+    justify-items: center;
+    grid-gap: 30px;
+  }
+}
+
+@media(max-width: 1200px) {
+  .offerProductsContainer{
+
+    &__grid{
+      padding: 10px 10px;
+      width: 100%;
+      column-gap: 10px;
+    }
+  }
+}
+
+@media(max-width: 900px){
+  .offerProductsContainer{
+
+    &__grid{
+      grid-template: 1fr 1fr 1fr/ repeat(3, 1fr);
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.rating{
+  height: 20px;
+
+  &__list{
+    list-style: none;
+    display: inline-block;
+
+    &__item{
+      float: left;
+      margin-left: 3px;
+      height: 14px;
+
+      &__image{
+        height: 100%;
+        max-height: 100%;
+      }
+    }
+  }
+}

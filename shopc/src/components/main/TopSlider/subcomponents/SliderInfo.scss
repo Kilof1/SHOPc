@@ -30,6 +30,11 @@
     height: 40px;
     font-weight: bold;
     letter-spacing: 1px;
+    cursor: pointer;
+
+    &:hover{
+      background-color: #30bbc58f;
+    }
   }
 }
 
