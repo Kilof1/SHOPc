@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/SHOPc/static/css/main.82cd7c9b.chunk.css",
+    "main.js": "/SHOPc/static/js/main.6d19f313.chunk.js",
+    "main.js.map": "/SHOPc/static/js/main.6d19f313.chunk.js.map",
+    "runtime-main.js": "/SHOPc/static/js/runtime-main.eda40e27.js",
+    "runtime-main.js.map": "/SHOPc/static/js/runtime-main.eda40e27.js.map",
+    "static/js/2.2ebf5dd1.chunk.js": "/SHOPc/static/js/2.2ebf5dd1.chunk.js",
+    "static/js/2.2ebf5dd1.chunk.js.map": "/SHOPc/static/js/2.2ebf5dd1.chunk.js.map",
+    "index.html": "/SHOPc/index.html",
+    "static/css/main.82cd7c9b.chunk.css.map": "/SHOPc/static/css/main.82cd7c9b.chunk.css.map",
+    "static/js/2.2ebf5dd1.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.2ebf5dd1.chunk.js.LICENSE.txt",
+    "static/media/disc.bb0cb52b.jpg": "/SHOPc/static/media/disc.bb0cb52b.jpg",
+    "static/media/discount.f5327ae2.svg": "/SHOPc/static/media/discount.f5327ae2.svg",
+    "static/media/emptystar.c7b2724e.svg": "/SHOPc/static/media/emptystar.c7b2724e.svg",
+    "static/media/european-union.94b6802e.svg": "/SHOPc/static/media/european-union.94b6802e.svg",
+    "static/media/graph.55e02018.png": "/SHOPc/static/media/graph.55e02018.png",
+    "static/media/heart.e34016a1.svg": "/SHOPc/static/media/heart.e34016a1.svg",
+    "static/media/menu.de21b81a.svg": "/SHOPc/static/media/menu.de21b81a.svg",
+    "static/media/more.83d41fbd.jpg": "/SHOPc/static/media/more.83d41fbd.jpg",
+    "static/media/mother.df6e3282.webp": "/SHOPc/static/media/mother.df6e3282.webp",
+    "static/media/pc.cd7b0fb9.png": "/SHOPc/static/media/pc.cd7b0fb9.png",
+    "static/media/pc1.98d30227.png": "/SHOPc/static/media/pc1.98d30227.png",
+    "static/media/pc2.cd7b0fb9.png": "/SHOPc/static/media/pc2.cd7b0fb9.png",
+    "static/media/pcservice.4c926baa.webp": "/SHOPc/static/media/pcservice.4c926baa.webp",
+    "static/media/poland.f887465c.svg": "/SHOPc/static/media/poland.f887465c.svg",
+    "static/media/proc.fdfc10cd.jpg": "/SHOPc/static/media/proc.fdfc10cd.jpg",
+    "static/media/secondAd.13521624.jpg": "/SHOPc/static/media/secondAd.13521624.jpg",
+    "static/media/shopping-cart.2ac2a2f7.svg": "/SHOPc/static/media/shopping-cart.2ac2a2f7.svg",
+    "static/media/star.de82f684.svg": "/SHOPc/static/media/star.de82f684.svg",
+    "static/media/united-kingdom.4839cec4.svg": "/SHOPc/static/media/united-kingdom.4839cec4.svg",
+    "static/media/user (1).ad105048.svg": "/SHOPc/static/media/user (1).ad105048.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda40e27.js",
+    "static/js/2.2ebf5dd1.chunk.js",
+    "static/css/main.82cd7c9b.chunk.css",
+    "static/js/main.6d19f313.chunk.js"
+  ]
+}
