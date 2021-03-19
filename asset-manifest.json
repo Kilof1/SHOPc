@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SHOPc/static/css/main.82cd7c9b.chunk.css",
-    "main.js": "/SHOPc/static/js/main.6d19f313.chunk.js",
-    "main.js.map": "/SHOPc/static/js/main.6d19f313.chunk.js.map",
+    "main.css": "/SHOPc/static/css/main.565ca57e.chunk.css",
+    "main.js": "/SHOPc/static/js/main.93f7c510.chunk.js",
+    "main.js.map": "/SHOPc/static/js/main.93f7c510.chunk.js.map",
     "runtime-main.js": "/SHOPc/static/js/runtime-main.eda40e27.js",
     "runtime-main.js.map": "/SHOPc/static/js/runtime-main.eda40e27.js.map",
     "static/js/2.2ebf5dd1.chunk.js": "/SHOPc/static/js/2.2ebf5dd1.chunk.js",
     "static/js/2.2ebf5dd1.chunk.js.map": "/SHOPc/static/js/2.2ebf5dd1.chunk.js.map",
     "index.html": "/SHOPc/index.html",
-    "static/css/main.82cd7c9b.chunk.css.map": "/SHOPc/static/css/main.82cd7c9b.chunk.css.map",
+    "static/css/main.565ca57e.chunk.css.map": "/SHOPc/static/css/main.565ca57e.chunk.css.map",
     "static/js/2.2ebf5dd1.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.2ebf5dd1.chunk.js.LICENSE.txt",
     "static/media/disc.bb0cb52b.jpg": "/SHOPc/static/media/disc.bb0cb52b.jpg",
     "static/media/discount.f5327ae2.svg": "/SHOPc/static/media/discount.f5327ae2.svg",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.eda40e27.js",
     "static/js/2.2ebf5dd1.chunk.js",
-    "static/css/main.82cd7c9b.chunk.css",
-    "static/js/main.6d19f313.chunk.js"
+    "static/css/main.565ca57e.chunk.css",
+    "static/js/main.93f7c510.chunk.js"
   ]
 }
