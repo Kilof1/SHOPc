@@ -146,7 +146,7 @@ const Offer: React.FC = () => {
   };
 
   return (
-    <div className="Offer">
+    <div className="offer">
       <OfferHeader whichActive={whichActive} />
       <OfferProductsContainer active={active} />
     </div>

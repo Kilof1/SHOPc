@@ -1,7 +1,9 @@
 .secondAd{
+  position: relative;
   width: 100%;
-
+  cursor: pointer;
   &__img{
     max-width: 100%;
   }
+
 }
