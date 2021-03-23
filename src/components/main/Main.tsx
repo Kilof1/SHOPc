@@ -4,6 +4,8 @@ import ImageNav from "./ImageNav/ImageNav";
 import FirstAd from "./FirstAd/FirstAd";
 import Offer from "./Offer/Offer";
 import SecondAd from "./SecondAd/SecondAd";
+import ContactShortcuts from "./ContactShortcuts/ContactShortcuts";
+import ThirdAd from "./ThirdAd/ThirdAd";
 
 const Main: React.FC = () => {
   return (
@@ -13,6 +15,8 @@ const Main: React.FC = () => {
       <FirstAd />
       <Offer />
       <SecondAd />
+      <ContactShortcuts />
+      <ThirdAd />
     </div>
   );
 };
