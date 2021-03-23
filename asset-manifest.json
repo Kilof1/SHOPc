@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SHOPc/static/css/main.7e7ecb73.chunk.css",
-    "main.js": "/SHOPc/static/js/main.b3493112.chunk.js",
-    "main.js.map": "/SHOPc/static/js/main.b3493112.chunk.js.map",
+    "main.css": "/SHOPc/static/css/main.95ff346b.chunk.css",
+    "main.js": "/SHOPc/static/js/main.67845e90.chunk.js",
+    "main.js.map": "/SHOPc/static/js/main.67845e90.chunk.js.map",
     "runtime-main.js": "/SHOPc/static/js/runtime-main.eda40e27.js",
     "runtime-main.js.map": "/SHOPc/static/js/runtime-main.eda40e27.js.map",
     "static/js/2.701290d7.chunk.js": "/SHOPc/static/js/2.701290d7.chunk.js",
     "static/js/2.701290d7.chunk.js.map": "/SHOPc/static/js/2.701290d7.chunk.js.map",
     "index.html": "/SHOPc/index.html",
-    "static/css/main.7e7ecb73.chunk.css.map": "/SHOPc/static/css/main.7e7ecb73.chunk.css.map",
+    "static/css/main.95ff346b.chunk.css.map": "/SHOPc/static/css/main.95ff346b.chunk.css.map",
     "static/js/2.701290d7.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.701290d7.chunk.js.LICENSE.txt",
     "static/media/cust.937ce3be.svg": "/SHOPc/static/media/cust.937ce3be.svg",
     "static/media/d-card.6a6246b4.svg": "/SHOPc/static/media/d-card.6a6246b4.svg",
@@ -17,9 +17,12 @@
     "static/media/dtruck.8e98e980.png": "/SHOPc/static/media/dtruck.8e98e980.png",
     "static/media/emptystar.95a3c21b.svg": "/SHOPc/static/media/emptystar.95a3c21b.svg",
     "static/media/european-union.94b6802e.svg": "/SHOPc/static/media/european-union.94b6802e.svg",
+    "static/media/facebook.5aa9dd97.svg": "/SHOPc/static/media/facebook.5aa9dd97.svg",
     "static/media/fourthAd.92861304.jpg": "/SHOPc/static/media/fourthAd.92861304.jpg",
     "static/media/graph.55e02018.png": "/SHOPc/static/media/graph.55e02018.png",
     "static/media/heart.e34016a1.svg": "/SHOPc/static/media/heart.e34016a1.svg",
+    "static/media/instagram.e719d8b2.png": "/SHOPc/static/media/instagram.e719d8b2.png",
+    "static/media/linkedin.7defd339.svg": "/SHOPc/static/media/linkedin.7defd339.svg",
     "static/media/menu.de21b81a.svg": "/SHOPc/static/media/menu.de21b81a.svg",
     "static/media/more.83d41fbd.jpg": "/SHOPc/static/media/more.83d41fbd.jpg",
     "static/media/mother.df6e3282.webp": "/SHOPc/static/media/mother.df6e3282.webp",
@@ -34,13 +37,15 @@
     "static/media/star.de82f684.svg": "/SHOPc/static/media/star.de82f684.svg",
     "static/media/telefony.14e1ad7c.jpg": "/SHOPc/static/media/telefony.14e1ad7c.jpg",
     "static/media/thirdAd.51373a9d.jpg": "/SHOPc/static/media/thirdAd.51373a9d.jpg",
+    "static/media/twitter.6456a4ea.svg": "/SHOPc/static/media/twitter.6456a4ea.svg",
     "static/media/united-kingdom.4839cec4.svg": "/SHOPc/static/media/united-kingdom.4839cec4.svg",
-    "static/media/user (1).ad105048.svg": "/SHOPc/static/media/user (1).ad105048.svg"
+    "static/media/user (1).ad105048.svg": "/SHOPc/static/media/user (1).ad105048.svg",
+    "static/media/youtube.c02f061a.svg": "/SHOPc/static/media/youtube.c02f061a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eda40e27.js",
     "static/js/2.701290d7.chunk.js",
-    "static/css/main.7e7ecb73.chunk.css",
-    "static/js/main.b3493112.chunk.js"
+    "static/css/main.95ff346b.chunk.css",
+    "static/js/main.67845e90.chunk.js"
   ]
 }
