@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/SHOPc/static/css/main.95ff346b.chunk.css",
-    "main.js": "/SHOPc/static/js/main.67845e90.chunk.js",
-    "main.js.map": "/SHOPc/static/js/main.67845e90.chunk.js.map",
+    "main.css": "/SHOPc/static/css/main.9c0f7191.chunk.css",
+    "main.js": "/SHOPc/static/js/main.86bf3407.chunk.js",
+    "main.js.map": "/SHOPc/static/js/main.86bf3407.chunk.js.map",
     "runtime-main.js": "/SHOPc/static/js/runtime-main.eda40e27.js",
     "runtime-main.js.map": "/SHOPc/static/js/runtime-main.eda40e27.js.map",
     "static/js/2.701290d7.chunk.js": "/SHOPc/static/js/2.701290d7.chunk.js",
     "static/js/2.701290d7.chunk.js.map": "/SHOPc/static/js/2.701290d7.chunk.js.map",
     "index.html": "/SHOPc/index.html",
-    "static/css/main.95ff346b.chunk.css.map": "/SHOPc/static/css/main.95ff346b.chunk.css.map",
+    "static/css/main.9c0f7191.chunk.css.map": "/SHOPc/static/css/main.9c0f7191.chunk.css.map",
     "static/js/2.701290d7.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.701290d7.chunk.js.LICENSE.txt",
     "static/media/cust.937ce3be.svg": "/SHOPc/static/media/cust.937ce3be.svg",
     "static/media/d-card.6a6246b4.svg": "/SHOPc/static/media/d-card.6a6246b4.svg",
     "static/media/disc.bb0cb52b.jpg": "/SHOPc/static/media/disc.bb0cb52b.jpg",
     "static/media/discount.f5327ae2.svg": "/SHOPc/static/media/discount.f5327ae2.svg",
     "static/media/dtruck.8e98e980.png": "/SHOPc/static/media/dtruck.8e98e980.png",
+    "static/media/email.4481ec21.svg": "/SHOPc/static/media/email.4481ec21.svg",
     "static/media/emptystar.95a3c21b.svg": "/SHOPc/static/media/emptystar.95a3c21b.svg",
     "static/media/european-union.94b6802e.svg": "/SHOPc/static/media/european-union.94b6802e.svg",
     "static/media/facebook.5aa9dd97.svg": "/SHOPc/static/media/facebook.5aa9dd97.svg",
@@ -26,10 +27,12 @@
     "static/media/menu.de21b81a.svg": "/SHOPc/static/media/menu.de21b81a.svg",
     "static/media/more.83d41fbd.jpg": "/SHOPc/static/media/more.83d41fbd.jpg",
     "static/media/mother.df6e3282.webp": "/SHOPc/static/media/mother.df6e3282.webp",
+    "static/media/nav.bfddefe1.svg": "/SHOPc/static/media/nav.bfddefe1.svg",
     "static/media/pc.cd7b0fb9.png": "/SHOPc/static/media/pc.cd7b0fb9.png",
     "static/media/pc1.98d30227.png": "/SHOPc/static/media/pc1.98d30227.png",
     "static/media/pc2.cd7b0fb9.png": "/SHOPc/static/media/pc2.cd7b0fb9.png",
     "static/media/pcservice.4c926baa.webp": "/SHOPc/static/media/pcservice.4c926baa.webp",
+    "static/media/phone.fc2e402d.svg": "/SHOPc/static/media/phone.fc2e402d.svg",
     "static/media/poland.f887465c.svg": "/SHOPc/static/media/poland.f887465c.svg",
     "static/media/proc.fdfc10cd.jpg": "/SHOPc/static/media/proc.fdfc10cd.jpg",
     "static/media/secondAd.13521624.jpg": "/SHOPc/static/media/secondAd.13521624.jpg",
@@ -45,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.eda40e27.js",
     "static/js/2.701290d7.chunk.js",
-    "static/css/main.95ff346b.chunk.css",
-    "static/js/main.67845e90.chunk.js"
+    "static/css/main.9c0f7191.chunk.css",
+    "static/js/main.86bf3407.chunk.js"
   ]
 }
