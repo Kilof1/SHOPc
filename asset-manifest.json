@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/SHOPc/static/css/main.9c0f7191.chunk.css",
-    "main.js": "/SHOPc/static/js/main.86bf3407.chunk.js",
-    "main.js.map": "/SHOPc/static/js/main.86bf3407.chunk.js.map",
+    "main.css": "/SHOPc/static/css/main.8d1160c6.chunk.css",
+    "main.js": "/SHOPc/static/js/main.a95c1454.chunk.js",
+    "main.js.map": "/SHOPc/static/js/main.a95c1454.chunk.js.map",
     "runtime-main.js": "/SHOPc/static/js/runtime-main.eda40e27.js",
     "runtime-main.js.map": "/SHOPc/static/js/runtime-main.eda40e27.js.map",
-    "static/js/2.701290d7.chunk.js": "/SHOPc/static/js/2.701290d7.chunk.js",
-    "static/js/2.701290d7.chunk.js.map": "/SHOPc/static/js/2.701290d7.chunk.js.map",
+    "static/js/2.089044de.chunk.js": "/SHOPc/static/js/2.089044de.chunk.js",
+    "static/js/2.089044de.chunk.js.map": "/SHOPc/static/js/2.089044de.chunk.js.map",
     "index.html": "/SHOPc/index.html",
-    "static/css/main.9c0f7191.chunk.css.map": "/SHOPc/static/css/main.9c0f7191.chunk.css.map",
-    "static/js/2.701290d7.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.701290d7.chunk.js.LICENSE.txt",
+    "static/css/main.8d1160c6.chunk.css.map": "/SHOPc/static/css/main.8d1160c6.chunk.css.map",
+    "static/js/2.089044de.chunk.js.LICENSE.txt": "/SHOPc/static/js/2.089044de.chunk.js.LICENSE.txt",
+    "static/media/close.17a94979.svg": "/SHOPc/static/media/close.17a94979.svg",
     "static/media/cust.937ce3be.svg": "/SHOPc/static/media/cust.937ce3be.svg",
     "static/media/d-card.6a6246b4.svg": "/SHOPc/static/media/d-card.6a6246b4.svg",
     "static/media/disc.bb0cb52b.jpg": "/SHOPc/static/media/disc.bb0cb52b.jpg",
@@ -40,6 +41,7 @@
     "static/media/star.de82f684.svg": "/SHOPc/static/media/star.de82f684.svg",
     "static/media/telefony.14e1ad7c.jpg": "/SHOPc/static/media/telefony.14e1ad7c.jpg",
     "static/media/thirdAd.51373a9d.jpg": "/SHOPc/static/media/thirdAd.51373a9d.jpg",
+    "static/media/trash.9b8117c7.svg": "/SHOPc/static/media/trash.9b8117c7.svg",
     "static/media/twitter.6456a4ea.svg": "/SHOPc/static/media/twitter.6456a4ea.svg",
     "static/media/united-kingdom.4839cec4.svg": "/SHOPc/static/media/united-kingdom.4839cec4.svg",
     "static/media/user (1).ad105048.svg": "/SHOPc/static/media/user (1).ad105048.svg",
@@ -47,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.eda40e27.js",
-    "static/js/2.701290d7.chunk.js",
-    "static/css/main.9c0f7191.chunk.css",
-    "static/js/main.86bf3407.chunk.js"
+    "static/js/2.089044de.chunk.js",
+    "static/css/main.8d1160c6.chunk.css",
+    "static/js/main.a95c1454.chunk.js"
   ]
 }
