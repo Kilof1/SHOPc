@@ -1,0 +1,35 @@
+.newsItem{
+  width: 30%;
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+
+  &__img{
+    width: 100%;
+
+    &__img{
+      width: 100%;
+      max-width: 100%;
+      box-shadow: 0px 3px 8px 1px rgb(133, 133, 133);;
+    }
+  }
+
+  &__title{
+    font-family: "Rubik";
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid rgb(228, 227, 227);
+    border-top: none;
+  }
+}
+
+@media(max-width: 600px){
+  .newsItem{
+    width: 80%;
+  }
+
+  .newsItem:nth-last-child(1), .newsItem:nth-last-child(2){
+    display: none;
+  }
+}

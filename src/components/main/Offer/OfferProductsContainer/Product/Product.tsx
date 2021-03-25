@@ -15,7 +15,7 @@ export interface ProductProps {
 
 const Product: React.FC<ProductProps> = ({ item }: ProductProps) => {
   return (
-    <div className="product">
+    <div className="product" id="productFlex">
       <div className="product__popover">
         <div className="product__popover__container">
           <div className="product__popover__container__option">Zobacz</div>

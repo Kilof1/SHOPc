@@ -1,0 +1,17 @@
+.main{
+
+  &__inner{
+    width: 80%;
+    margin: auto;
+    transition: 0.3s;
+  }
+}
+
+@media(max-width: 1200px) {
+  .main{
+
+    &__inner{
+      width: 100%;
+    }
+  }
+}

@@ -106,6 +106,20 @@
                         fill: red;
                     }
                 }
+
+                &__info{
+                    position: relative;
+                    background-color: var(--color-secondary);
+                    height: 18px;
+                    width: 18px;
+                    top: -20px;
+                    left: 10px;
+                    border-radius: 10px;
+                    text-align: center;
+                    line-height: 18px;;
+                    font-weight: bold;
+                    font-size: 12px;
+                }
             }
             &__login{
                 grid-area: 1 / 2 / 2 / 3;

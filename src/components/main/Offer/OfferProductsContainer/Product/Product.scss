@@ -1,7 +1,8 @@
 .product{
   position: relative;
-  width: 100%;
+  display: inline-block;
   height: 100%;
+  width: 100%;
   font-family: 'Rubik';
   text-transform: uppercase;
   text-align: center;
@@ -71,7 +72,7 @@
 }
 
 @media(max-width: 900px){
-  .product:last-of-type, .product:nth-last-child(2){
+  .product:last-of-type, .product:nth-last-child(2), .product:nth-child(8), .product:nth-child(7){
     display: none;
   }
   .product{

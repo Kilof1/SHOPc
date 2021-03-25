@@ -1,0 +1,17 @@
+.footer{
+  margin-top: 20px;
+  background-color: #1E2121;
+  color: white;
+
+  &__inner{
+    width: 70%;
+    margin: auto;
+    padding: 10px 0;
+  }
+}
+
+@media(max-width: 1200px){
+  .footer__inner{
+    width: 100%;
+  }
+}

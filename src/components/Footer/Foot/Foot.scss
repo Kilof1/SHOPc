@@ -1,0 +1,13 @@
+.foot{
+  border-top: 1px solid grey;
+  color: rgba(197, 197, 197, 0.671);
+  margin-top: 10px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 13px;
+
+  .foot__name{
+    color: var(--color-secondary)
+  }
+}
